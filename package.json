@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"noemi test\" && exit 1"
+  },
+  "author": "NoemiS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noemistefan/Angular.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noemistefan/Angular/issues"
+  },
+  "homepage": "https://github.com/noemistefan/Angular#readme"
+}
